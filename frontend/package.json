@@ -5,6 +5,7 @@
   "description": "Frontend for Dev Resource Hub",
   "main": "src/index.js",
   "scripts": {
+    "build": "react-scripts build",
     "start": "react-scripts start"
   },
   "dependencies": {
