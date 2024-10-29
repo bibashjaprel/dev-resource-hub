@@ -74,8 +74,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌟 Contributors
 
-Thanks to the contributors who helped build **Dev Resource Hub**! Check out the list of [contributors](https://github.com/your-username/dev-resource-hub/graphs/contributors).
+Thanks to the contributors who helped build **Dev Resource Hub**! Check out the list of [contributors](https://github.com/bibashjapreldev-resource-hub/graphs/contributors).
 
 ## 📧 Contact
 
-For any inquiries or issues, feel free to reach out at `your-email@example.com`.
+For any inquiries or issues, feel free to reach out at `bibashjaprel111@gmail.com`.
