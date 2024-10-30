@@ -28,7 +28,7 @@ const Navbar = () => {
 
       {/* Categories */}
       <div className="bg-gray-900 py-2">
-        <div className="container mx-auto flex space-x-6 px-6">
+        <div className="container mx-auto flex justify-center space-x-6 px-6">
           <a href="#" className="hover:text-gray-400">Accessibility</a>
           <a href="#" className="hover:text-gray-400">AI</a>
           <a href="#" className="hover:text-gray-400">Analytics</a>
